@@ -1,4 +1,3 @@
-//POLYNOMIAL ADDITION USING LINKED LIST.
 #include <stdio.h>
 #include <stdlib.h>
 
