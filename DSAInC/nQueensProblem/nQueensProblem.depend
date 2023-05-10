@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683744475 source:d:\cprogramming\dsainc\nqueensproblem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
